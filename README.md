@@ -1,7 +1,9 @@
-# Statistics-for-DS-main
-Statistics for DS main
-Project - Boston Housing Data Analysis using Python 👨‍💻
-About Project - Boston Housing Data Analysis using Python
+
+## Project - Boston Housing Data Analysis using Python  👨‍💻 
+
+
+### About Project - Boston Housing Data Analysis using Python
+
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
 
 ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -33,3 +35,4 @@ PTRATIO: pupil-teacher ratio by town 12. B: 1000(Bk−0.63)2 where Bk is the pro
 MEDV: Median value of owner-occupied homes in $1000s
 
 We can see that the input attributes have a mixture of units.
+
